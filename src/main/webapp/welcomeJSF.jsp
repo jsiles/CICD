@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - GITHUB ACTIONS Hoy es 22 de Junio de 2025 21:40" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - GITHUB ACTIONS Hoy es 22 de Junio de 2025 21:40 " /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
